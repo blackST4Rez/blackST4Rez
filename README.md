@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **NextJS, MongoDB, Git**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 👁️‍🗨️ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
