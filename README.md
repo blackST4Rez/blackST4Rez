@@ -55,10 +55,12 @@
 <h2 align="center">🔹🔷 Stats 🔷🔹</h2>
 <br>
 <div align=center>
-![blackST4Rez's Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackST4Rez&theme=tokyonight&hide_border=true)
-</div>
-
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=blackST4Rez&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=blackST4Rez&theme=tokyonight&hide_border=true" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackST4Rez&theme=tokyonight&hide_border=true" alt="top langs" />
 <br/><br/>
+</div>
 
 <hr/>
 
