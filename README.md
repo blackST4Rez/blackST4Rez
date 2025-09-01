@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=blackST4Rez.blackST4Rez" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=6ebaaf&width=500&height=70&duration=4000&lines=Hi+There!+🦖;+I'm+Raka+Maharjan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=39bdad&width=500&height=70&duration=4000&lines=Hi+There!+🦖;+I'm+Raka+Maharjan!;" />
 </h1>
 
 <h3 align="center">Exploring Code ...</h3>
@@ -77,6 +77,6 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=6ebaaf&width=500&height=70&duration=4000&lines=Thanks+for+visiting+🛸;+Shoot+me+a+message+on+LinkedIn+💬;+I'm+always+down+to+collab+🧩">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=39bdad&width=500&height=70&duration=4000&lines=Thanks+for+visiting+🛸;+Shoot+me+a+message+on+LinkedIn+💬;+I'm+always+down+to+collab+🧩">
   </a>
 </h3>
