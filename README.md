@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=blackST4Rez.blackST4Rez" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/demo/?weight=500&duration=4000&color=E11F14&lines=Hi+There+!;I'm+Raka+Maharjan.;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=E11F14&width=435&lines=Hi+There+!;I'm+Raka+Maharjan." alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">Exploring Code...</h3>
