@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🐷;+I'm+Raka+Maharjan!;" />
 </h1>
 
-<h3 align="center">Exploring Code<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=...;" /></h3>
+<h3 align="center">Exploring Code<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=008EC8&width=435&lines=....." alt="Typing SVG" /></a></h3>
 
 <br/>
 
