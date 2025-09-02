@@ -45,9 +45,9 @@
   <h2>🔹♦️My Contributions♦️🔹</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/blackST4Rez/blackST4Rez/blob/output/github-snake-dark.svg" />
-  <img align="center" alt="pfp" width="450" src="https://64.media.tumblr.com/42aef4ea7a590909cc0b6d5453eae64c/tumblr_p2i7q3lNsI1swjm3io2_1280.gif" />
-  
-  <br/><br/><br/>
+  <br/>
+  <br/>
+ <br/>
 </div>
 
 <hr/>
