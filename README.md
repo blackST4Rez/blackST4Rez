@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=blackST4Rez.blackST4Rez" />
-<img align="left" alt="pfp" width="150" src="https://cdnb.artstation.com/p/assets/images/images/054/903/167/original/jorge-lucas-combo.gif?1665634358" />
-
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&left=true&vleft=true&color=4088db&width=350&height=70&duration=4000&lines=Hi+There!+🏂;+I'm+Raka+Maharjan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&center=true&color=4088db&width=350&height=70&duration=4000&lines=Hi+There!+🏂;+I'm+Raka+Maharjan!;" />
 </h1>
 
 <h3 align="center">Exploring Code ...</h3>
