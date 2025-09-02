@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=blackST4Rez.blackST4Rez" />
+<img align="left" alt="pfp" width="400" src="https://luxegfx.wordpress.com/about/" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=4088db&width=500&height=70&duration=4000&lines=Hi+There!+🏂;+I'm+Raka+Maharjan!;" />
