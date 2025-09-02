@@ -46,6 +46,8 @@
   <br>
   <img alt="snake eating my contributions" src="https://github.com/blackST4Rez/blackST4Rez/blob/output/github-snake-dark.svg" />
   <br/>
+</br>
+    </br>
 </div>
 
 <hr/>
