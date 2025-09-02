@@ -2,7 +2,7 @@
 <img align="left" alt="pfp" width="150" src="https://cdnb.artstation.com/p/assets/images/images/054/903/167/original/jorge-lucas-combo.gif?1665634358" />
 
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=4088db&width=250&height=70&duration=4000&lines=Hi+There!+🏂;+I'm+Raka+Maharjan!;" />
 </h1>
 
