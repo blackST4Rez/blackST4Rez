@@ -29,7 +29,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<img align="left" alt="pfp" width="150" src="https://cdnb.artstation.com/p/assets/images/images/054/903/167/original/jorge-lucas-combo.gif?1665634358" />
  <hr/>
  
 <h2 align="center">🎯Languages-Frameworks-Tools🎯</h2>
