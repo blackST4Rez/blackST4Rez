@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=blackST4Rez.blackST4Rez" />
+<img align="left" alt="pfp" width="800" src="https://cdnb.artstation.com/p/assets/images/images/054/903/167/original/jorge-lucas-combo.gif?1665634358" />
 
 
 <h1 align="center">
