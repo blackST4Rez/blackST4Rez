@@ -27,8 +27,8 @@
   </a>
   <a href="https://Raka Maharjan.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+      <img align="left" alt="pfp" width="150" src="https://cdnb.artstation.com/p/assets/images/images/054/903/167/original/jorge-lucas-combo.gif?1665634358" />
   </a>
-    <img align="left" alt="pfp" width="150" src="https://cdnb.artstation.com/p/assets/images/images/054/903/167/original/jorge-lucas-combo.gif?1665634358" />
 </div>
 
  <hr/>
