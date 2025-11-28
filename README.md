@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on an E-commerce Website
  
- ⚗️ I’m currently learning **NextJS, MongoDB, Git**
+ ⚗️ I’m currently learning **JavaScript, Git**
 
  👁️‍🗨️ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
