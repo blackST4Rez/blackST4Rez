@@ -56,13 +56,13 @@
 <br>
 <div align=center>
      <div>
- <img src="https://streak-stats.demolab.com?user=blackST4Rez&theme=tokyonight&hide_border=true" alt="blackST4Rez's GitHub Stats" />
+ <img src="https://streak-stats.demolab.com?user=blackST4Rez&theme=buefy-dark&hide_border=true" alt="blackST4Rez's GitHub Stats" />
     </div>
     <div>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=blackST4Rez&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=blackST4Rez&theme=buefy-dark&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
     </div>
   <div>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackST4Rez&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackST4Rez&theme=buefy-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
   </div>
 <br/><br/>
 </div>
