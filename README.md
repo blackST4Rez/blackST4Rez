@@ -8,13 +8,13 @@
 
 <br/>
 
-<div align="center" color="#ea485c" >
+<div align="center">
  
- 🔭 I’m currently working on an E-commerce Website
+ 🚀 I’m currently working on an E-commerce Website
  
- ⚗️ I’m currently learning **JavaScript, Git**
+ 📌 I’m currently learning **JavaScript, Git**
 
- 👁️‍🗨️ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🛟 Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -31,7 +31,7 @@
 </div>
  <hr/>
  
-<h2 align="center">🎯Languages-Frameworks-Tools🎯</h2>
+<h2 align="center">☄️Languages-Frameworks-Tools☄️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,java,html,css,vscode,github,figma,tailwind,git,fastapi,idea,pycharm,bootstrap" />
