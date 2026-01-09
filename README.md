@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="color: #ea485c;" >
  
  🔭 I’m currently working on an E-commerce Website
  
