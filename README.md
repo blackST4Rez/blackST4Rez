@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&center=true&color=c93052&width=350&height=70&duration=4000&lines=Hi+There!+🏂;+I'm+Raka+Maharjan!;" />
 </h1>
 
-<h3 align="center">Exploring Code ...</h3>
+<h3 align="center">Exploring Code<span style="color:c93052;">...</h3>
 
 <br/>
 
