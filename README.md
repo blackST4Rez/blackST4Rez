@@ -31,7 +31,7 @@
 </div>
  <hr/>
  
-<h2 align="center">☄️Languages-Frameworks-Tools☄️</h2>
+<h2 align="center"><a href="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png">Languages-Frameworks-Tools☄️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,java,html,css,vscode,github,figma,tailwind,git,fastapi,idea,pycharm,bootstrap,ts" />
