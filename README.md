@@ -14,7 +14,7 @@
  
  📌 I’m currently learning **JavaScript, Python**
 
- 🛟 Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🛟 Fun fact **Snowballs do no damage to most mobs, but they damage the Blaze.**
 
  </div>
  
