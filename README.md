@@ -61,9 +61,6 @@
     <div>
   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&hide_values=true&theme=tokyonight&user=&hide_border=true" />
     </div>
-  <div>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackST4Rez&theme=buefy-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
-  </div>
 <br/><br/>
 </div>
 
