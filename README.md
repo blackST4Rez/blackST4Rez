@@ -59,7 +59,7 @@
  <img src="https://streak-stats.demolab.com?user=blackST4Rez&theme=buefy-dark&hide_border=true" alt="blackST4Rez's GitHub Stats" />
     </div>
     <div>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=6&hide_values=true&theme=radical&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=6&hide_values=true&theme=radical&user=&hide_border=true" />
     </div>
   <div>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackST4Rez&theme=buefy-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
