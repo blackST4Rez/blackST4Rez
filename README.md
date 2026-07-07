@@ -56,7 +56,7 @@
 <br>
 <div align=center>
      <div>
- <img src="https://streak-stats.demolab.com?user=blackST4Rez&theme=buefy-dark&hide_border=true" alt="blackST4Rez's GitHub Stats" />
+ <img src="https://streak-stats.demolab.com?user=blackST4Rez&theme=buefy-dark&hide_border=true" />
     </div>
     <div>
   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=blackST4Rez&layout=compact&langs_count=6&hide_values=true&theme=tokyonight&user=&hide_border=true" />
