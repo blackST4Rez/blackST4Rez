@@ -12,7 +12,7 @@
  
  🚀 I’m currently working on an Front-End-Development
  
- 📌 I’m currently learning **Typescript, React**
+ 📌 I’m currently learning **C#**
 
  🛟 Fun fact **Snowballs do no damage to most mobs, but they damage the Blaze.**
 
