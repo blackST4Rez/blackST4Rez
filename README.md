@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🚀 I’m currently working on an Front-End-Development
+ 🚀 I’m currently working as Front End Developer
  
  📌 I’m currently learning **C#**
 
