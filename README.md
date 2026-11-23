@@ -35,6 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,ts,git,github,figma,cs" />
+    <br>
     <img src="https://skillicons.dev/icons?i=dotnet" />
 </div>
 
